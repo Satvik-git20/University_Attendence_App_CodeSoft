@@ -27,12 +27,7 @@ A modern, production-ready University Attendance Management Application for Andr
 - Android Studio Ladybug (or newer)
 - Firebase Project
 
-### Steps
 
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/your-repo/university-attendance.git
-   ```
 
 2. **Add Firebase**:
    - Create a project in the [Firebase Console](https://console.firebase.google.com/).
@@ -56,6 +51,4 @@ A modern, production-ready University Attendance Management Application for Andr
 - `di/`: Hilt dependency injection modules.
 - `theme/`: Design system (Colors, Typography, Shapes).
 
-## License
 
-This project is licensed under the MIT License.
